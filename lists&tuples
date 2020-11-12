@@ -1,0 +1,9 @@
+Tuple1 = ('hello', 'there', 'and', 'welcome', 'to', 'my', 'code')
+print(Tuple1)
+firstlast = ( Tuple1 [0], Tuple1[-1])
+print(firstlast)
+
+List1 = 'hello there and welcome to my code'
+print(List1)
+firstlast = [ List1 [0], List1[-1]]
+print(firstlast)
